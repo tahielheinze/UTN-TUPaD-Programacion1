@@ -1,7 +1,7 @@
 # **💻 Programación 1**
 Tecnicatura Universitaria en Programación
 
-*📍 Universidad Tecnológica Nacional
+*📍 Universidad Tecnológica Nacional*
 
 # **✨ Estudiante**
 Nombre: Tahiel Noé Heinze
