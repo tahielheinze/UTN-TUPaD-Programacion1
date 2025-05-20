@@ -3,5 +3,10 @@
 
 #* Definicion de Funciones
 
+def segundos_a_hora(segundos):
+    horas = segundos / 3600
+    print(f"Los segundos {segundos} pasados a horas son = {horas}")
 
 #* Programa principal
+segundos = int(input("Ingrese una cantidad de segundos: "))
+segundos_a_hora(segundos)
