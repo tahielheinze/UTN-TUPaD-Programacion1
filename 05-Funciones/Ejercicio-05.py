@@ -9,4 +9,5 @@ def segundos_a_hora(segundos):
 
 #* Programa principal
 segundos = int(input("Ingrese una cantidad de segundos: "))
+
 segundos_a_hora(segundos)
