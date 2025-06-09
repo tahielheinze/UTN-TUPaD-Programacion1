@@ -6,18 +6,23 @@ Este trabajo práctico aborda el estudio de **estructuras de datos avanzadas**, 
 
 ## Comisión 03
 
-**Alumnos:** Joaquin Ignacio Juarez - Tahiel Noé Heinze
+**Alumnos:** 
+- Joaquin Ignacio Juarez
+- Tahiel Noé Heinze
 
-**Profesora:** Julieta Trapé
-**Tutor:** Tomás Ferro
+**Profesora:** 
+- Julieta Trapé
 
-## 🎯 Objetivos del proyecto
+**Tutor:** 
+- Tomás Ferro
+
+## Objetivos del proyecto
 1. Implementar un Árbol Binario de Busqueda funcional en Python utilizando programación orientada a objetos.
 2. Demostrar el proceso de inserción y ordenamiento automático de datos.
 3. Visualizar la estructura jerárquica del árbol mediante una representación gráfica en consola.
 4. Validar el correcto funcionamiento del recorrido in-order para mostrar los datos ordenados.
 
-## 🛠 Funcionalidades principales
+## Funcionalidades principales
 - *Clases para nodos y estructura del árbol.*
 - *Inserción recursiva de valores*.
 - *Recorrido in-order para mostrar valores ordenados.*
