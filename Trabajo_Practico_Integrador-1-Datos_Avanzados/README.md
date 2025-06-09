@@ -2,7 +2,7 @@
 
 # Árbol Binario de Búsqueda (ABB) - Implementación en Python
 
-Este trabajo práctico aborda el estudio de **estructuras de datos avanzadas**, específicamente la implementación de un **Árbol Binario de Búsqueda**. Los Árboles binarios son estructuras no lineales fundamentales en computación que permiten almacenar y organizar información de manera eficiente, optimizando operaciones como búsqueda, inserción y recorrido de datos.
+En este trabajo práctico integrador abordaremos el estudio de las **estructuras de datos avanzadas**, específicamente en la implementación de un **Árbol Binario de Búsqueda**. Los Árboles binarios son estructuras no lineales fundamentales en computación que permiten almacenar y organizar información de manera eficiente, optimizando operaciones como búsqueda, inserción y recorrido de datos.
 
 ## Comisión 03
 
